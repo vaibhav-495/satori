@@ -1,2 +1,0 @@
-# satori
-Created with CodeSandbox
